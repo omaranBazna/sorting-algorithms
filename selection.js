@@ -11,3 +11,5 @@ for (let u = 0; u < n; u++) {
   arr.splice(arr.indexOf(min), 1);
 }
 console.log(result);
+//Time complexity O(n*n);
+///Space Complexity O(n);
