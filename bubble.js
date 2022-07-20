@@ -8,3 +8,4 @@ for (let i of arr) {
     }
   }
 }
+console.log(arr);
