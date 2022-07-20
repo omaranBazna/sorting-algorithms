@@ -9,3 +9,4 @@ for (let i in arr) {
     minIndex = i;
   }
 }
+[arr[index], arr[minIndex]] = [arr[minIndex], arr[index]];
