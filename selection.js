@@ -9,3 +9,4 @@ for (let u in arr) {
   result.push(min);
   arr.splice(arr.indexOf(min), 1);
 }
+console.log(result);
