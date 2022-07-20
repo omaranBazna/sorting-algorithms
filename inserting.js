@@ -15,3 +15,4 @@ for (let i in arr) {
 }
 console.log(arr);
 ///Time Complexity O(n*n);
+// Space Complexiy  O(1);
